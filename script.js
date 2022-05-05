@@ -1,1 +1,0 @@
-var scriptname = 'Script file'
