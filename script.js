@@ -1,0 +1,1 @@
+var scriptname = 'Script file'
