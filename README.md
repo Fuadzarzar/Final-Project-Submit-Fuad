@@ -1,6 +1,6 @@
-# Final-Project-Submit-Fuad
-Final Project: Submit Your Work and Review Your Peers
-## This project contains a simple HTML file
+# github-final-project
+## This project contains final project
+
 
 ## Authors
 - [Fuad Zarzar](https://github.com/Fuadzarzar)
